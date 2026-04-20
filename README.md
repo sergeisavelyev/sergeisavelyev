@@ -13,7 +13,7 @@ Data-аналитик. Автоматизация сбора данных, BI-о
 ### Проекты
 
 #### [audience-geo](https://github.com/sergeisavelyev/audience-geo-preview) — геоаналитика аудиторий для наружной рекламы
-[![audience-geo](https://github.com/sergeisavelyev/audience-geo-preview/assets/screen_osm.png)](https://github.com/sergeisavelyev/audience-geo-preview)
+[![audience-geo](https://github.com/sergeisavelyev/audience-geo-preview/blob/main/assets/screen_osm.png)](https://github.com/sergeisavelyev/audience-geo-preview)
 
 > Python · FastAPI · Playwright · H3 · OpenStreetMap 
 
