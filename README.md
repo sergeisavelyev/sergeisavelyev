@@ -6,7 +6,7 @@ Data-аналитик. Автоматизация сбора данных, BI-о
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/scvscvcv)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sergeisavelyev11@gmail.com)
-[![HeadHunter](https://img.shields.io/badge/HeadHunter-FF0000?style=flat&logo=headhunter&logoColor=white)]([https://hh.ru/resume/ТВОй_ID](https://kazan.hh.ru/resume/c9d3e2e0ff0e78e5130039ed1f426451547132))
+[![HeadHunter](https://img.shields.io/badge/HeadHunter-FF0000?style=flat&logo=headhunter&logoColor=white)](https://kazan.hh.ru/resume/c9d3e2e0ff0e78e5130039ed1f426451547132)
 
 ---
 
